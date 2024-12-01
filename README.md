@@ -1,6 +1,6 @@
 # Hi there, I'm [Анураг](https://github.com/4nuxd) 👋
 
-### 🧑‍💻 Developer | 🚀 Innovator | 🌟 Tech Enthusiast 
+### 🔐 Penetration Tester | 🛡️ Security Analyst | 🧑‍💻 Developer | 🚀 Vulnerability Hunter | 🌐 Cybersecurity Enthusiast
 
 Welcome to my GitHub profile! I’m a passionate developer who enjoys exploring new technologies and creating innovative solutions. Dive into my projects, check out my stats, and let’s connect!
 
