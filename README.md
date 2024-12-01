@@ -31,10 +31,6 @@ Here are some projects I’m really proud of:
 
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2300A5E3?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
 
-## 📈 GitHub Stats
-
-Here are some cool stats about my GitHub activity:
-
 ### General Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/4nuxd?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
