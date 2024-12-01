@@ -37,7 +37,7 @@ Here are some cool stats about my GitHub activity:
 
 ### General Stats
 
-![4nuxd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4nuxd&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=9CA3AF&icon_color=79C0FF)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/4nuxd?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### Top Languages
 
