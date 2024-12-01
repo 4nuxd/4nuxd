@@ -47,7 +47,7 @@ Here are some projects I’m really proud of:
 
 I occasionally write about my projects and experiences. Check out my latest posts:
 
-- [**Blog Post Title**](https://medium.com/@noobpirate)
+- [**Medium**](https://medium.com/@noobpirate)
 
 ## 🎯 Goals
 
