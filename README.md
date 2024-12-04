@@ -20,7 +20,7 @@ Gender: Male
 Location: Ranchi, India
 Learning: Rust, CSharp 🧑‍💻
 Languages: Php, js, Css, Html, Python
-About : 🔐 Penetration Tester | 🛡️ Security Analyst | 🧑‍💻 Developer | 🚀 Vulnerability Hunter | 🌐 Cybersecurity Enthusiast
+About : 🔐 Penetration Tester | 🛡️ Security Analyst | 🚀 Vulnerability Hunter | 🧑‍💻 Developer  
 Telegram: @piratexd
 ```
 <br>
