@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Karan <img src="https://i.imgur.com/2PkUGki.gif" width="35px" height="35px"></h1>
+<h1 align="center">✨ Hi there I'm Karan <img src="https://i.imgur.com/2PkUGki.gif" width="350px" height="200px"></h1>
 
 ```zsh
 > neofetch
