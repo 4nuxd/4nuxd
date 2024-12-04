@@ -1,9 +1,24 @@
-# Hi there, I'm [Анураг](https://github.com/4nuxd) 👋
+<h1 align="center">✨ Hi there I'm Karan <img src="https://i.imgur.com/2PkUGki.gif" width="35px" height="35px"></h1>
 
-### 🔐 Penetration Tester | 🛡️ Security Analyst | 🧑‍💻 Developer | 🚀 Vulnerability Hunter | 🌐 Cybersecurity Enthusiast
+```zsh
+> neofetch
+```
 
-Welcome to my GitHub profile! I’m a passionate developer who enjoys exploring new technologies and creating innovative solutions. Dive into my projects, check out my stats, and let’s connect!
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
 
+```csharp
+My Profile
+-------------------------------
+Name: Karan Singh.
+WhoamI: High School Student 🏫.
+Gender: Male.
+Location: Chandigarh, India.
+Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
+Hobbies: Gaming, Coding while I am listening music 🎶.
+Languages: CPlusPlus, CSharp, Css, Html, Python.
+Learning: Computer Science.
+Telegram: @EVERYONExKSK.
+```
 ## 🚀 What I’m Currently Working On
 
 I’m actively working on a few exciting projects. Here’s what’s keeping me busy:
