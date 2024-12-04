@@ -93,4 +93,11 @@ Telegram: @piratexd
 
 ![](https://raw.githubusercontent.com/4nuxd/4nuxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/4nuxd/4nuxd/output/github-contribution-grid-snake.svggh-light-mode-only)
+
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@KSKOP69?theme=gelbooru" />
+  </div>
 <br>
