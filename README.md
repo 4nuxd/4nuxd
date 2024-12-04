@@ -93,3 +93,4 @@ Telegram: @piratexd
 <img src="https://moe-counter.glitch.me/get/@4nuxd?theme=gelbooru" />
   </div>
 <br>
+<hr>
