@@ -53,6 +53,14 @@ Telegram: @piratexd
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>  
 </p>
 
+<h3 align="left">OS</h3>
+<p align="left"> 
+<a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="vscode" width="60" height="60"/> </a> 
+<a href="https://archlinux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="bash" width="60" height="60"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
+<a href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="60" height="60"/> </a>  
+</p>
+
 <h3 align="left">Servers & Hosts</h3>
 <p align="left"> 
 <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="github" width="60" height="60"/> </a> 
@@ -61,12 +69,11 @@ Telegram: @piratexd
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="60" height="60"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 <a href="https://www.oracle.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/></a>
-<a href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="60" height="60"/> </a> 
 </p>
 </div>
 <br>
+
   
 ## 🚀 What I’m Currently Working On
 
