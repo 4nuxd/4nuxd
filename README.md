@@ -82,22 +82,14 @@ Telegram: @piratexd
 <a href="https://github.com/4nuxd"><img alt="KSK's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
 <br>
-
 <h2 align = "center"> 🏆 GitHub Trophies ✨ </h2>
 <div>
 <a herf="https://github.com/4nuxd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4nuxd&margin-w=15&margin-h=10&row=3&column=8&count_private=true&include_all_commits=true&theme=dracula" alt="Trophies" width="150%"/></a><br>
 </div>
 <br>
-
-<h2 align="center"> My contributions game 🐍🎮</h2>
-
-![](https://raw.githubusercontent.com/4nuxd/4nuxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/4nuxd/4nuxd/output/github-contribution-grid-snake.svggh-light-mode-only)
-
-<br>
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://moe-counter.glitch.me/get/@KSKOP69?theme=gelbooru" />
+<img src="https://moe-counter.glitch.me/get/@4nuxd?theme=gelbooru" />
   </div>
 <br>
