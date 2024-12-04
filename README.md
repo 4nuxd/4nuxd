@@ -14,7 +14,7 @@
 ```csharp
 My Profile
 -------------------------------
-Name: Анураг Дев.
+Name: Анураг Дев
 WhoamI: PG Scholar 🏫
 Gender: Male
 Location: Ranchi, India
