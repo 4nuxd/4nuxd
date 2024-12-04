@@ -5,12 +5,10 @@
 <img src="https://i.imgur.com/2PkUGki.gif" width="300px">
 </div>
 <br>
-
 ```zsh
 > neofetch
 ```
 <img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
-
 ```csharp
 My Profile
 -------------------------------
@@ -39,6 +37,34 @@ Telegram: @piratexd
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="C" width="60" height="60"/> </a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> </a>
 </p>
+<h3 align="left">Databases</h3>
+<p align="left"> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left"> 
+<a href="https://www.apache.org//" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="vscode" width="60" height="60"/> </a>  
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="60" height="60"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>  
+<a href="https://www.apache.org//" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="vscode" width="60" height="60"/> </a>  
+</p>
+
+<h3 align="left">Servers & Hosts</h3>
+<p align="left"> 
+<a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="github" width="60" height="60"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a>
+<a href="https://m.do.co/c/698f2a298346" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="60" height="60"/></a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>      
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
+<a href="https://www.oracle.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/></a>
+<a href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="60" height="60"/> </a> 
+</p>
+</div>
+<br>
   
 ## 🚀 What I’m Currently Working On
 
