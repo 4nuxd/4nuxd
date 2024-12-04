@@ -36,7 +36,7 @@ Telegram: @piratexd
 <a href="https://isocpp.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> </a>
 <a href="https://www.css3.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> </a> 
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="60" height="60"/> </a> 
+<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JAVA SCRIPT" width="60" height="60"/> </a> 
 <a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> </a>
 </p>
