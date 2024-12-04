@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Karan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">✨ Hi there I'm Анураг <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <body>
 <br>
 <div align="center">
@@ -9,21 +9,18 @@
 ```zsh
 > neofetch
 ```
-
 <img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
-
 ```csharp
 My Profile
 -------------------------------
-Name: Karan Singh.
-WhoamI: High School Student 🏫.
-Gender: Male.
-Location: Chandigarh, India.
-Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
-Hobbies: Gaming, Coding while I am listening music 🎶.
-Languages: CPlusPlus, CSharp, Css, Html, Python.
-Learning: Computer Science.
-Telegram: @EVERYONExKSK.
+Name: Анураг Дев.
+WhoamI: PG Scholar 🏫
+Gender: Male
+Location: Ranchi, India
+Learning: Rust, CSharp 🧑‍💻
+Languages: Php, js, Css, Html, Python
+About : 🔐 Penetration Tester | 🛡️ Security Analyst | 🧑‍💻 Developer | 🚀 Vulnerability Hunter | 🌐 Cybersecurity Enthusiast
+Telegram: @piratexd
 ```
 ## 🚀 What I’m Currently Working On
 
