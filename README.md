@@ -28,6 +28,18 @@ Telegram: @piratexd
 <p align = "justify"><b>I am a passionate cybersecurity enthusiast and PG scholar with a keen interest in learning new technologies like Rust and C#. Proficient in programming languages such as PHP, JavaScript, CSS, HTML, and Python, I specialize in penetration testing, security analysis, and vulnerability hunting. As a developer, I strive to create secure and innovative solutions, constantly expanding my knowledge to stay ahead in the ever-evolving field of cybersecurity.</b>
 <br>
 </p>
+<h2 align="center"><b>⚒️ Languages-Frameworks-Tools 🛠️</b></h2>
+<h3 align="left">Languages</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a> 
+<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/> </a> 
+<a href="https://isocpp.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> </a>
+<a href="https://www.css3.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> </a> 
+<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="60" height="60"/> </a> 
+<a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> </a>
+</p>
   
 ## 🚀 What I’m Currently Working On
 
