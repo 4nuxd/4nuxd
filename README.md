@@ -16,8 +16,6 @@ My Profile
 -------------------------------
 Name: Анураг Дев
 WhoamI: PG Scholar 🏫
-Gender: Male
-Location: Ranchi, India
 Learning: Rust, CSharp 🧑‍💻
 Languages: Php, js, Css, Html, Python
 What I Do : Creating Useless Stuffs 🙂
