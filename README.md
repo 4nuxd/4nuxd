@@ -2,19 +2,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
-
-```csharp
-My Profile
--------------------------------
-Name: Анураг Дев
-WhoamI: PG Scholar 🏫
-Learning: Rust, CSharp 🧑‍💻
-Languages: Php, js, Css, Html, Python
-What I Do : Creating Useless Stuffs 🙂
-About : 🔐 Penetration Tester | 🛡️ Security Analyst | 🚀 Vulnerability Hunter | 🧑‍💻 Developer  
-Telegram: @piratexd
-```
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1770126" style='border:none;'></iframe>
 <br>
 
 <div align = "center">
