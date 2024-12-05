@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1770126" style='border:none;'></iframe>
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/4nuxd.png" width="120px"/> 
 
 <br>
 
