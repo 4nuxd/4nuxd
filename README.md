@@ -2,9 +2,9 @@
 ```zsh
 > neofetch
 ```
-
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/4nuxd.png" width="120px"/> 
-
+<centre>
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/4nuxd.png" /> 
+</centre>
 <br>
 
 <div align = "center">
