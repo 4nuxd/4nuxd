@@ -3,7 +3,7 @@
 > neofetch
 ```
 <div align="center">
-<img align="justify" src="https://tryhackme-badges.s3.amazonaws.com/4nuxd.png" width="20px"/>
+<img align="justify" src="https://tryhackme-badges.s3.amazonaws.com/4nuxd.png"/>
 </div>
 <br>
 
