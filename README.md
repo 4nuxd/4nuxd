@@ -6,6 +6,7 @@
 <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/4nuxd.png" /> 
 </centre>
 <br>
+<br>
 
 <div align = "center">
 <p align = "justify"><b>I am a passionate cybersecurity enthusiast and PG scholar with a keen interest in learning new technologies like Rust and C#. Proficient in programming languages such as PHP, JavaScript, CSS, HTML, and Python, I specialize in penetration testing, security analysis, and vulnerability hunting. As a developer, I strive to create secure and innovative solutions, constantly expanding my knowledge to stay ahead in the ever-evolving field of cybersecurity.</b>
