@@ -51,21 +51,21 @@ Telegram: @piratexd
 <br>
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
-
+<a href="https://github.com/4nuxd"><img alt="Анураг's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=4nuxd&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
 <a href="https://github.com/4nuxd"><img alt="Анураг's Contribution" src="https://github-contributor-stats.vercel.app/api?username=4nuxd&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
 <a href="https://github.com/4nuxd"><img src="https://github-readme-streak-stats.herokuapp.com?user=4nuxd&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
+<a href="https://github.com/4nuxd"><img alt="Анураг's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nuxd&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
 <a href="https://github.com/4nuxd"><img alt="Анураг's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
 <br>
-<h2 align = "center"> 🏆 GitHub Trophies ✨ </h2>
-<div>
-<a herf="https://github.com/4nuxd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4nuxd&margin-w=15&margin-h=10&row=3&column=8&count_private=true&include_all_commits=true&theme=dracula" alt="Trophies" width="150%"/></a><br>
+###
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-<br>
-<div>
-<h2 align="center">View counter 👀</h2>
-<div align="center">
-<img src="https://moe-counter.glitch.me/get/@4nuxd?theme=gelbooru" />
-  </div>
 <br>
 <hr>
