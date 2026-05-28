@@ -49,7 +49,7 @@ Telegram: @piratexd
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <a href="https://github.com/4nuxd"><img src="https://github-readme-streak-stats.herokuapp.com?user=4nuxd&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
-<a href="https://github.com/4nuxd"><img alt="Анураг's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" width="51%"/></a>
+<a href="https://github.com/4nuxd"><img alt="Анураг's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" width="50%"/></a>
 </div>
 <br>
 
