@@ -43,7 +43,7 @@ Website:   https://4nuxd.one/
 <div align="center">
 
 <a href="https://github.com/4nuxd/tabpulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=4nuxd&repo=tabpulse&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&icon_color=ff5500&text_color=c9d1d9"/>
+<img src="https://github-readme-stats-sigma-two-19.vercel.app/api/pin/?username=4nuxd&repo=tabpulse&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/>
 </a>
 
 </div>
