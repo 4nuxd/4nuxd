@@ -1,57 +1,151 @@
+<div align="center">
 
-```zsh
-> neofetch
-```
-```csharp
-My Profile
-----------------------------------------------------------------------------------------------
-Name: Анураг Дев
-WhoamI: PG Scholar 🏫
-Learning: Rust, CSharp 🧑‍💻
-Languages: Php, js, Css, Html, Python
-What I Do : Creating Useless Stuffs 🙂
-About : 🔐 Penetration Tester | 🛡️ Security Analyst | 🚀 Vulnerability Hunter | 🧑‍💻 Developer  
-Telegram: @piratexd
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Анураг%20Дев&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Security%20Analyst%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Tester+%F0%9F%94%90;Security+Analyst+%F0%9F%9B%A1%EF%B8%8F;Vulnerability+Hunter+%F0%9F%9A%80;PG+Scholar+%F0%9F%8F%AB;Creating+Useless+Stuffs+%F0%9F%99%82&font=Fira%20Code&size=22&pause=1000&color=9F4BFF&center=true&vCenter=true&width=600&height=40&random=false"/>
+
+<p>
+<a href="https://4nuxd.one/"><img src="https://img.shields.io/badge/Website-4nuxd.one-9F4BFF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://t.me/piratexd"><img src="https://img.shields.io/badge/Telegram-@piratexd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://x.com/4nuxd"><img src="https://img.shields.io/badge/X-@4nuxd-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/4nuxd/"><img src="https://img.shields.io/badge/LinkedIn-4nuxd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/4nuxd"><img src="https://img.shields.io/badge/Instagram-@4nuxd-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://facebook.com/4nuxd"><img src="https://img.shields.io/badge/Facebook-4nuxd-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://github.com/4nuxd"><img src="https://img.shields.io/badge/GitHub-4nuxd-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<h2 align="center"><b>⚒️ Languages-Frameworks-Tools 🛠️</b></h2>
-<h3 align="left">Languages</h3>
-<p align="left"> 
-<a href="https://www.css3.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> </a> 
-<a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JAVA SCRIPT" width="50" height="50"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a> 
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="C" width="50" height="50"/> </a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> </a>
+
+<p>
+<img src="https://img.shields.io/github/last-commit/4nuxd/4nuxd?style=flat-square&color=9f4bff&label=README%20last%20updated"/>
+<a href="https://github.com/4nuxd/4nuxd/actions/workflows/update-readme.yml"><img src="https://img.shields.io/github/actions/workflow/status/4nuxd/4nuxd/update-readme.yml?style=flat-square&color=ff5500&label=auto-sync"/></a>
 </p>
-<h3 align="left">Tools</h3>
-<p align="left"> 
-<a href="https://www.apache.org//" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="vscode" width="50" height="50"/> </a>  
-<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> </a>  
-</p>
-<h3 align="left">Servers & Hosts</h3>
-<p align="left"> 
-<a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="github" width="50" height="50"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a>
-<a href="https://m.do.co/c/698f2a298346" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="50" height="50"/></a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="50"/> </a> 
-<a href="https://www.oracle.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/></a>
-</p>
+
 </div>
-<br>
-<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
-<div> 
-<a href="https://github.com/4nuxd"><img src="https://github-readme-streak-stats.herokuapp.com?user=4nuxd&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
-<a href="https://github.com/4nuxd"><img alt="Анураг's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" width="50%"/></a>
-</div>
-<br>
 
 <br>
-<hr>
+
+## 👤 About Me
+
+```yaml
+Name:      Анураг Дев (Anurag Dev)
+Role:      PG Scholar 🏫
+Location:  Delhi - NCR, India
+Learning:  Rust, C# 🧑‍💻
+Languages: PHP, JS, CSS, HTML, Python
+Focus:     🔐 Penetration Testing | 🛡️ Security Analysis | 🚀 Vulnerability Hunting
+Website:   https://4nuxd.one/
+```
+
+<br>
+
+## 🆕 Recently Active Projects
+<sub>Auto-refreshed every 6 hours — always shows what I'm actually shipping right now, not a snapshot.</sub>
+<!-- LATEST-PROJECT:START (auto-generated, do not edit by hand) -->
+<div align="center">
+
+<a href="https://github.com/4nuxd/AudioFlux">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=4nuxd&repo=AudioFlux&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&icon_color=ff5500&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+> **AudioFlux** — a high-performance, real-time music ecosystem seamlessly integrated with Telegram. Stream, sync, and monitor music playback across devices with millisecond precision. Built with **TypeScript**.
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/4nuxd/AudioFlux?style=for-the-badge&color=ff5500&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/4nuxd/AudioFlux?style=for-the-badge&color=9f4bff&label=Last%20Commit"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+<!-- LATEST-PROJECT:END -->
+
+<br>
+
+## ⚡ Recent GitHub Activity
+<sub>My last 5 real actions on GitHub — commits, PRs, issues — refreshed automatically.</sub>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+## ⚒️ Languages · Frameworks · Tools
+
+### Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+</p>
+
+### Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="Apache" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/>
+</p>
+
+### Servers & Hosts
+<p align="left">
+<img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+</p>
+
+<br>
+
+## 📌 Pinned Highlights
+
+<div align="center">
+
+<a href="https://github.com/4nuxd/email-spoofer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4nuxd&repo=email-spoofer&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&icon_color=ff5500&text_color=c9d1d9"/></a>
+<a href="https://github.com/4nuxd/payment-gateway-scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4nuxd&repo=payment-gateway-scanner&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&icon_color=ff5500&text_color=c9d1d9"/></a>
+<a href="https://github.com/4nuxd/keylogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4nuxd&repo=keylogger&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&icon_color=ff5500&text_color=c9d1d9"/></a>
+<a href="https://github.com/4nuxd/Pathbuster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4nuxd&repo=Pathbuster&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&icon_color=ff5500&text_color=c9d1d9"/></a>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=4nuxd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&icon_color=ff5500&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nuxd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9f4bff&text_color=c9d1d9" width="35%"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=4nuxd&theme=midnight-purple&hide_border=true&card_width=500&card_height=200&background=0D1117&stroke=9f4bff&ring=ff5500&fire=ff6161&currStreakLabel=9f4bff" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&theme=midnight-purple&bg_color=0d1117&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" width="49%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=4nuxd&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" width="100%"/>
+
+<br><br>
+
+<!-- Contribution snake — auto-regenerated daily by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/4nuxd/4nuxd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=4nuxd&color=9f4bff&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/4nuxd?style=for-the-badge&color=ff5500&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/4nuxd?style=for-the-badge&color=ffcb47&label=TOTAL+STARS&logo=github)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
