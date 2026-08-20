@@ -42,24 +42,19 @@ Website:   https://4nuxd.one/
 <!-- LATEST-PROJECT:START (auto-generated, do not edit by hand) -->
 <div align="center">
 
-<a href="https://github.com/4nuxd/tabpulse">
-<img src="https://github-readme-stats-sigma-two-19.vercel.app/api/pin/?username=4nuxd&repo=tabpulse&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/>
+<a href="https://github.com/4nuxd/AudioFlux">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=AudioFlux&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/>
 </a>
 
 </div>
 
-> **tabpulse** — A minimal, glassmorphic Chrome extension that auto-refreshes the tabs you choose, on the schedule you set.
+> **AudioFlux** — a high-performance, real-time music ecosystem seamlessly integrated with Telegram. Stream, sync, and monitor music playback across devices with millisecond precision. Built with **TypeScript**.
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/4nuxd/tabpulse?style=for-the-badge&color=ff5500&label=Stars"/>
-<img src="https://img.shields.io/github/last-commit/4nuxd/tabpulse?style=for-the-badge&color=9f4bff&label=Last%20Commit"/>
-<img src="https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/4nuxd/AudioFlux?style=for-the-badge&color=808080&labelColor=1a1a1a&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/4nuxd/AudioFlux?style=for-the-badge&color=808080&labelColor=1a1a1a&label=Last%20Commit"/>
+<img src="https://img.shields.io/badge/TypeScript-2b2b2b?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
-Also recently touched:
-- **[CVE-2025-66034](https://github.com/4nuxd/CVE-2025-66034)** — CVE-2025-66034 - fontTools varLib Arbitrary File Write → RCE  PoC exploit for an Arbitrary File Write + XML Injection vulnerability in fontTools.varLib.
-- **[omrs-rce](https://github.com/4nuxd/omrs-rce)** — Automated exploit for CVE - Online Marriage Registration System 1.0 Unauthenticated file upload → RCE → Auto reverse shell (Windows & Linux targets)
-
 <!-- LATEST-PROJECT:END -->
 
 <br>
@@ -111,10 +106,16 @@ Also recently touched:
 
 <div align="center">
 
-<a href="https://github.com/4nuxd/email-spoofer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=email-spoofer&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/></a>
-<a href="https://github.com/4nuxd/payment-gateway-scanner"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=payment-gateway-scanner&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/></a>
-<a href="https://github.com/4nuxd/keylogger"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=keylogger&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/></a>
-<a href="https://github.com/4nuxd/Pathbuster"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=Pathbuster&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/></a>
+<table>
+<tr>
+<td align="center" width="50%"><a href="https://github.com/4nuxd/email-spoofer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=email-spoofer&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333&card_width=380" width="100%"/></a></td>
+<td align="center" width="50%"><a href="https://github.com/4nuxd/payment-gateway-scanner"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=payment-gateway-scanner&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333&card_width=380" width="100%"/></a></td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://github.com/4nuxd/keylogger"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=keylogger&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333&card_width=380" width="100%"/></a></td>
+<td align="center" width="50%"><a href="https://github.com/4nuxd/Pathbuster"><img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=Pathbuster&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333&card_width=380" width="100%"/></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -124,17 +125,30 @@ Also recently touched:
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=4nuxd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333&count_private=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=4nuxd&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=333333" width="35%"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=4nuxd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333&card_width=460" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=4nuxd&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=333333&card_width=460" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=4nuxd&hide_border=true&card_width=460&card_height=195&background=0D1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b0b0b0&currStreakNum=ffffff&sideNums=c9d1d9&dates=808080" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&bg_color=0d1117&title_color=ffffff&hide_border=true&radius=4.5&color=ffffff&line=b0b0b0&point=ffffff&area=true&area_color=333333&height=195" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=4nuxd&hide_border=true&card_width=500&card_height=200&background=0D1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b0b0b0&currStreakNum=ffffff&sideNums=c9d1d9&dates=808080" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4nuxd&bg_color=0d1117&title_color=ffffff&hide_border=true&radius=4.5&color=ffffff&line=b0b0b0&point=ffffff&area=true&area_color=333333" width="49%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=4nuxd&theme=dark_dimmed&no-frame=true&row=1&margin-w=15&column=7" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=4nuxd&color=808080&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/4nuxd?style=for-the-badge&color=808080&labelColor=1a1a1a&label=FOLLOWERS&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/4nuxd?style=for-the-badge&color=808080&labelColor=1a1a1a&label=TOTAL+STARS&logo=github&logoColor=white"/>
 
 <br><br>
 
@@ -144,13 +158,5 @@ Also recently touched:
 </div>
 
 <br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=4nuxd&color=808080&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/4nuxd?style=for-the-badge&color=808080&labelColor=1a1a1a&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/4nuxd?style=for-the-badge&color=808080&labelColor=1a1a1a&label=TOTAL+STARS&logo=github&logoColor=white)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cccccc,50:4d4d4d,100:1a1a1a&height=100&section=footer" width="100%"/>
