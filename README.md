@@ -10,16 +10,11 @@
 <a href="https://instagram.com/4nuxd"><img src="https://img.shields.io/badge/Instagram-@4nuxd-2b2b2b?style=for-the-badge&logo=instagram&logoColor=39FF14"/></a>
 <a href="https://facebook.com/4nuxd"><img src="https://img.shields.io/badge/Facebook-4nuxd-2b2b2b?style=for-the-badge&logo=facebook&logoColor=39FF14"/></a>
 <a href="https://github.com/4nuxd"><img src="https://img.shields.io/badge/GitHub-4nuxd-2b2b2b?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
-</p>
-</div>
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=4nuxd&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/4nuxd?style=for-the-badge&color=39ff14&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=39FF14"/>
 <img src="https://img.shields.io/github/stars/4nuxd?style=for-the-badge&color=39ff14&labelColor=0d1117&label=TOTAL+STARS&logo=github&logoColor=39FF14"/>
-
-<br><br>
+</p>
+</div>
 
 <br>
 
