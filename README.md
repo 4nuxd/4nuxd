@@ -12,7 +12,6 @@
 <a href="https://github.com/4nuxd"><img src="https://img.shields.io/badge/GitHub-4nuxd-2b2b2b?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
 <img src="https://komarev.com/ghpvc/?username=4nuxd&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/4nuxd?style=for-the-badge&color=39ff14&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=39FF14"/>
-<img src="https://img.shields.io/github/stars/4nuxd?style=for-the-badge&color=39ff14&labelColor=0d1117&label=TOTAL+STARS&logo=github&logoColor=39FF14"/>
 </p>
 </div>
 
