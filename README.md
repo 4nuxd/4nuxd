@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Tester+%F0%9F%94%90;Security+Analyst+%F0%9F%9B%A1%EF%B8%8F;Vulnerability+Hunter+%F0%9F%9A%80;PG+Scholar+%F0%9F%8F%AB;Creating+Useless+Stuffs+%F0%9F%99%82&font=Fira%20Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=40&random=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d3d16,100:39ff14&height=220&section=header&text=Анураг%20Дев&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Security%20Analyst%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
 <a href="https://4nuxd.one/"><img src="https://img.shields.io/badge/Website-4nuxd.one-2b2b2b?style=for-the-badge&logo=firefox&logoColor=39FF14"/></a>
