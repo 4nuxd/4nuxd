@@ -11,12 +11,6 @@
 <a href="https://facebook.com/4nuxd"><img src="https://img.shields.io/badge/Facebook-4nuxd-2b2b2b?style=for-the-badge&logo=facebook&logoColor=39FF14"/></a>
 <a href="https://github.com/4nuxd"><img src="https://img.shields.io/badge/GitHub-4nuxd-2b2b2b?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
 </p>
-
-<p>
-<img src="https://img.shields.io/github/last-commit/4nuxd/4nuxd?style=flat-square&color=39ff14&labelColor=0d1117&label=README%20last%20updated"/>
-<a href="https://github.com/4nuxd/4nuxd/actions/workflows/update-readme.yml"><img src="https://img.shields.io/github/actions/workflow/status/4nuxd/4nuxd/update-readme.yml?style=flat-square&color=39ff14&labelColor=0d1117&label=auto-sync"/></a>
-</p>
-
 </div>
 
 <br>
