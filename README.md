@@ -38,7 +38,7 @@ Website:   https://4nuxd.one/
 <br>
 
 ## 🆕 Recently Active Projects
-<sub>Auto-refreshed every 6 hours — always shows what I'm actually shipping right now, not a snapshot.</sub>
+<sub>Auto-refreshed every 6 hours - always shows what I'm actually shipping right now, not a snapshot.</sub>
 <!-- LATEST-PROJECT:START (auto-generated, do not edit by hand) -->
 <div align="center">
 
@@ -48,7 +48,7 @@ Website:   https://4nuxd.one/
 
 </div>
 
-> **vanguard** — VirusTotal Smart Inspector is a lightweight browser extension designed to instantly surface VirusTotal intelligence while you browse. It automatically highlights IPs and other common indicators on any webpage, letting you view reputation details through quick popups, context-menu lookups, and inline tooltips.
+> **vanguard** - VirusTotal Smart Inspector is a lightweight browser extension designed to instantly surface VirusTotal intelligence while you browse. It automatically highlights IPs and other common indicators on any webpage, letting you view reputation details through quick popups, context-menu lookups, and inline tooltips.
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/4nuxd/vanguard?style=for-the-badge&color=ff5500&label=Stars"/>
@@ -57,15 +57,15 @@ Website:   https://4nuxd.one/
 </p>
 
 Also recently touched:
-- **[tabpulse](https://github.com/4nuxd/tabpulse)** — A minimal, glassmorphic Chrome extension that auto-refreshes the tabs you choose, on the schedule you set.
-- **[AudioFlux](https://github.com/4nuxd/AudioFlux)** — A high-performance, real-time music ecosystem seamlessly integrated with Telegram. Stream, sync, and monitor music playback across devices with millisecond precision.
+- **[tabpulse](https://github.com/4nuxd/tabpulse)** - A minimal, glassmorphic Chrome extension that auto-refreshes the tabs you choose, on the schedule you set.
+- **[AudioFlux](https://github.com/4nuxd/AudioFlux)** - A high-performance, real-time music ecosystem seamlessly integrated with Telegram. Stream, sync, and monitor music playback across devices with millisecond precision.
 
 <!-- LATEST-PROJECT:END -->
 
 <br>
 
 ## ⚡ Recent GitHub Activity
-<sub>My last 5 real actions on GitHub — commits, PRs, issues — refreshed automatically.</sub>
+<sub>My last 5 real actions on GitHub - commits, PRs, issues - refreshed automatically.</sub>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -157,7 +157,7 @@ Also recently touched:
 
 <br><br>
 
-<!-- Contribution snake — auto-regenerated daily by .github/workflows/snake.yml -->
+<!-- Contribution snake - auto-regenerated daily by .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/4nuxd/4nuxd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
