@@ -36,23 +36,23 @@ Website:   https://4nuxd.one/
 <!-- LATEST-PROJECT:START (auto-generated, do not edit by hand) -->
 <div align="center">
 
-<a href="https://github.com/4nuxd/vanguard">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=vanguard&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/>
+<a href="https://github.com/4nuxd/php2shell">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=4nuxd&repo=php2shell&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=b0b0b0&text_color=c9d1d9&border_color=333333"/>
 </a>
 
 </div>
 
-> **vanguard** — VirusTotal Smart Inspector is a lightweight browser extension designed to instantly surface VirusTotal intelligence while you browse. It automatically highlights IPs and other common indicators on any webpage, letting you view reputation details through quick popups, context-menu lookups, and inline tooltips.
+> **php2shell** — This tool is designed for authorized security research and educational purposes only. Do not use against systems you do not own or do not have explicit written permission to test. The author assumes no liability for misuse or damage caused by this tool.
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/4nuxd/vanguard?style=for-the-badge&color=ff5500&label=Stars"/>
-<img src="https://img.shields.io/github/last-commit/4nuxd/vanguard?style=for-the-badge&color=9f4bff&label=Last%20Commit"/>
-<img src="https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/4nuxd/php2shell?style=for-the-badge&color=ff5500&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/4nuxd/php2shell?style=for-the-badge&color=9f4bff&label=Last%20Commit"/>
+<img src="https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 Also recently touched:
+- **[vanguard](https://github.com/4nuxd/vanguard)** — VirusTotal Smart Inspector is a lightweight browser extension designed to instantly surface VirusTotal intelligence while you browse. It automatically highlights IPs and other common indicators on any webpage, letting you view reputation details through quick popups, context-menu lookups, and inline tooltips.
 - **[tabpulse](https://github.com/4nuxd/tabpulse)** — A minimal, glassmorphic Chrome extension that auto-refreshes the tabs you choose, on the schedule you set.
-- **[AudioFlux](https://github.com/4nuxd/AudioFlux)** — A high-performance, real-time music ecosystem seamlessly integrated with Telegram. Stream, sync, and monitor music playback across devices with millisecond precision.
 
 <!-- LATEST-PROJECT:END -->
 
